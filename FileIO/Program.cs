@@ -1,4 +1,16 @@
-﻿namespace FileIO
+﻿/**       
+ *--------------------------------------------------------------------
+ * 	   File name: Program.cs
+ * 	Project name: FileIO
+ *--------------------------------------------------------------------
+ * Author’s name and email:	Austin Mahala mahalaa1@etsu.edu				
+ *          Course-Section: CSCI-2910-970
+ *           Creation Date:	6-5-2023 	
+ * -------------------------------------------------------------------
+ */
+
+
+namespace FileIO
 {
     internal class Program
     {
